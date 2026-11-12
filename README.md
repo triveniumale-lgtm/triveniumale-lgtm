@@ -6,16 +6,17 @@ I'm passionate about Artificial Intelligence, Machine Learning, and building pra
 
 ### 🚀 Projects
 
-**1. Project Genesis**
+### 🚀 Featured Projects
+
+**1. [Project Genesis](https://github.com/triveniumale-lgtm/Project-Genesis)**
 - AI-powered application builder.
 - Built with Python, Streamlit, and Google Gemini API.
 - Turns ideas into working applications.
 
-**2. RAG Assistant**
+**2. [RAG Assistant](https://github.com/triveniumale-lgtm/RAG-Assistant)**
 - AI-powered document question-answering system.
 - Uses Retrieval-Augmented Generation (RAG).
 - Built with Python, Streamlit, FAISS, and Google Gemini API.
-
 ### 💻 Technical Skills
 - Python
 - Artificial Intelligence
