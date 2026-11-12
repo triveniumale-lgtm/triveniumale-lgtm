@@ -37,3 +37,10 @@ I'm passionate about Artificial Intelligence, Machine Learning, and building pra
 ---
 
 *Learning, building, and growing in AI.*
+---
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=triveniumale-lgtm&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=triveniumale-lgtm&layout=compact&theme=tokyonight&hide_border=true)
