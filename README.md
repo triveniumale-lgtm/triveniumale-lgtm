@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Triveni Umale 👋
 
-<!--
-**triveniumale-lgtm/triveniumale-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-Year Artificial Intelligence Engineering Student
 
-Here are some ideas to get you started:
+I'm passionate about Artificial Intelligence, Machine Learning, and building practical AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+
+**1. Project Genesis**
+- AI-powered application builder.
+- Built with Python, Streamlit, and Google Gemini API.
+- Turns ideas into working applications.
+
+**2. RAG Assistant**
+- AI-powered document question-answering system.
+- Uses Retrieval-Augmented Generation (RAG).
+- Built with Python, Streamlit, FAISS, and Google Gemini API.
+
+### 💻 Technical Skills
+- Python
+- Artificial Intelligence
+- Machine Learning
+- Retrieval-Augmented Generation (RAG)
+- Streamlit
+- FAISS
+- SQL
+
+### 🌱 Currently Learning
+- Advanced AI and Machine Learning
+- LLM applications
+- AI engineering
+
+### 📫 Connect with me
+- GitHub: https://github.com/triveniumale-lgtm
+
+---
+
+*Learning, building, and growing in AI.*
