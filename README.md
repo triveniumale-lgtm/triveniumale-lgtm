@@ -2,9 +2,7 @@
 
 🎓 Third-Year Artificial Intelligence Engineering Student
 
-I'm passionate about Artificial Intelligence, Machine Learning, and building practical AI-powered applications.
-
-### 🚀 Projects
+I'm passionate about Artificial Intelligence, Machine Learning, and building practical AI-powered applications
 
 ### 🚀 Featured Projects
 
